@@ -1,0 +1,13 @@
+body {
+    width: 95;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E1E1E1;
+}
+
+footer {
+    margin-top: 55px;
+}
